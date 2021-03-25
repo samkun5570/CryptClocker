@@ -1,8 +1,4 @@
 
-</style>
-<script type="text/javascript" src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/wz_jsgraphics.js"></script>
-</head>
-<body>
 <div style="position:absolute;left:50%;margin-left:-297px;top:0px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background01.jpg" width=595 height=842></div>
@@ -189,4 +185,4 @@
 <div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">40</span></div>
 </div>
 
-</body>
+
