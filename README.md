@@ -4,17 +4,16 @@
 <img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background01.jpg" width=595 height=842></div>
 <div style="position:absolute;left:116.10px;top:439.30px" class="cls_002"><span class="cls_002">Crypt Clocker</span></div>
 <div style="position:absolute;left:177.20px;top:511.00px" class="cls_003"><span class="cls_003">Data encryptor, hider and compressor.</span></div>
-<div style="position:absolute;left:546.50px;top:779.50px" class="cls_004"><span class="cls_004">4</span></div>
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:852px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
-<img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background02.jpg" width=595 height=842></div>
+<img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background02.jpg" width=595 height=442></div>
 <div style="position:absolute;left:73.30px;top:420.10px" class="cls_005"><span class="cls_005">Chapter 8: Screenshots</span></div>
 <div style="position:absolute;left:73.30px;top:470.70px" class="cls_006"><span class="cls_006">8</span><span class="cls_007">.</span><span class="cls_006">1</span><span class="cls_008">: Login and Account Creation</span></div>
 <div style="position:absolute;left:73.30px;top:708.30px" class="cls_009"><span class="cls_009">This is the first window that appears when the application project of Crypt Clocker is</span></div>
 <div style="position:absolute;left:73.30px;top:732.50px" class="cls_009"><span class="cls_009">runned. It provides the following features.</span></div>
 <div style="position:absolute;left:73.30px;top:756.60px" class="cls_010"><span class="cls_010">1. Internal frame (Member Registration and Member Login)</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">24</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:1704px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -28,7 +27,7 @@
 <div style="position:absolute;left:73.30px;top:374.60px" class="cls_009"><span class="cls_009">after this the main application window appears where you can perform your task.</span></div>
 <div style="position:absolute;left:73.30px;top:398.70px" class="cls_009"><span class="cls_009">Note. Please remember login is case sensitive so please be cautioned.</span></div>
 <div style="position:absolute;left:73.30px;top:422.70px" class="cls_006"><span class="cls_006">8.2. Main Window:</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">25</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:2556px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -47,8 +46,7 @@
 <div style="position:absolute;left:73.30px;top:660.40px" class="cls_009"><span class="cls_009">ADD,Back,Show encrypted, Remove all encrypted,Encrypt,Decrypt,Compress</span></div>
 <div style="position:absolute;left:73.30px;top:684.50px" class="cls_009"><span class="cls_009">,Decompress,Remove,Remove single, Decrypt single, Split ,Extract</span></div>
 <div style="position:absolute;left:73.30px;top:708.70px" class="cls_009"><span class="cls_009">split,Hide,Unhide,Clear,Decrypt single.</span></div>
-<div style="position:absolute;left:73.30px;top:757.00px" class="cls_010"><span class="cls_010">8.3 ADD</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">26</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:3408px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -60,7 +58,7 @@
 <div style="position:absolute;left:73.30px;top:407.90px" class="cls_009"><span class="cls_009">which opens a popup menu where add row can be selected to add files through open</span></div>
 <div style="position:absolute;left:73.30px;top:432.10px" class="cls_009"><span class="cls_009">dialog box. Through other options like the table or selected row can be cleared. After</span></div>
 <div style="position:absolute;left:73.30px;top:456.20px" class="cls_009"><span class="cls_009">required content are added press button "Export".</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">27</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:4260px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -70,8 +68,7 @@
 <div style="position:absolute;left:73.30px;top:90.40px" class="cls_009"><span class="cls_009">files  and  open  the  required  one  by  selecting  and  the  press  in  "open"  button.  If</span></div>
 <div style="position:absolute;left:73.30px;top:114.50px" class="cls_009"><span class="cls_009">multiple files has to be added press ctrl key in keyboard and select the files and then</span></div>
 <div style="position:absolute;left:73.30px;top:138.70px" class="cls_009"><span class="cls_009">press "open' button.</span></div>
-<div style="position:absolute;left:73.30px;top:476.20px" class="cls_010"><span class="cls_010">8.4 ENCRYPTING:</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">28</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:5112px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -82,7 +79,7 @@
 <div style="position:absolute;left:73.30px;top:383.20px" class="cls_004"><span class="cls_004">be displayed every time a task is needed to be done) if yes button is pressed task will be continued</span></div>
 <div style="position:absolute;left:73.30px;top:403.90px" class="cls_004"><span class="cls_004">otherwise it would be stopped. During encryption a glass pane will be activated that will block any</span></div>
 <div style="position:absolute;left:73.30px;top:424.60px" class="cls_004"><span class="cls_004">event like mouse or key click till encryption is complete.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">29</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:5964px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -94,7 +91,7 @@
 <div style="position:absolute;left:73.30px;top:422.60px" class="cls_004"><span class="cls_004">To view encrypted files present press button "Show encrypted".</span></div>
 <div style="position:absolute;left:73.30px;top:446.10px" class="cls_004"><span class="cls_004">To decrypt a single file press "Show encrypted" button and then select the required file and then</span></div>
 <div style="position:absolute;left:73.30px;top:462.70px" class="cls_004"><span class="cls_004">press button "Decrypt single" button.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">30</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:6816px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -102,7 +99,7 @@
 <div style="position:absolute;left:73.30px;top:65.70px" class="cls_004"><span class="cls_004">To remove content from encrypted content select file and then press button "Remove single".</span></div>
 <div style="position:absolute;left:73.30px;top:390.90px" class="cls_004"><span class="cls_004">To remove all content from encrypted content press button "Remove all encrypted".</span></div>
 <div style="position:absolute;left:73.30px;top:730.50px" class="cls_009"><span class="cls_009">The decrypted content is present in the folder with the same name as the username.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">31</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:7668px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -114,7 +111,7 @@
 <div style="position:absolute;left:73.30px;top:463.60px" class="cls_010"><span class="cls_010">8.7 DECOMPRESSING:</span></div>
 <div style="position:absolute;left:73.30px;top:487.80px" class="cls_009"><span class="cls_009">To decompress press button "Decompress" which will open a dialog box where</span></div>
 <div style="position:absolute;left:73.30px;top:511.90px" class="cls_009"><span class="cls_009">select the required zip file to decompress.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">32</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:8520px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -124,13 +121,13 @@
 <div style="position:absolute;left:73.30px;top:710.80px" class="cls_010"><span class="cls_010">8.8 CREATE SPLIT ZIP:</span></div>
 <div style="position:absolute;left:73.30px;top:735.00px" class="cls_009"><span class="cls_009">To create split archive press button "Split" which opens a dialog where enter name of</span></div>
 <div style="position:absolute;left:73.30px;top:759.10px" class="cls_009"><span class="cls_009">archive.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">33</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:9372px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background12.jpg" width=595 height=842></div>
 <div style="position:absolute;left:73.30px;top:327.60px" class="cls_009"><span class="cls_009">After this another dialog appears asking for compression level.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">34</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:10224px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -141,14 +138,14 @@
 <div style="position:absolute;left:73.30px;top:445.50px" class="cls_009"><span class="cls_009">In this phase split archive is merged and decompressed. To do this press button</span></div>
 <div style="position:absolute;left:73.30px;top:469.60px" class="cls_009"><span class="cls_009">Extract split and then select the split zip to be extracted. All others operation are as</span></div>
 <div style="position:absolute;left:73.30px;top:493.80px" class="cls_009"><span class="cls_009">usual operations.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">35</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:11076px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background14.jpg" width=595 height=842></div>
 <div style="position:absolute;left:73.30px;top:42.10px" class="cls_010"><span class="cls_010">8.10 REMOVE, LOGOUT (BACK), CLEAR:</span></div>
 <div style="position:absolute;left:73.30px;top:264.00px" class="cls_004"><span class="cls_004">To go back to the Login window press button "Back”. After button press.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">36</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:11928px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -158,12 +155,12 @@
 <div style="position:absolute;left:73.30px;top:339.00px" class="cls_004"><span class="cls_004">After removal of middle row.</span></div>
 <div style="position:absolute;left:73.30px;top:640.70px" class="cls_004"><span class="cls_004">To clear the table press button "Clear".</span></div>
 <div style="position:absolute;left:73.30px;top:664.20px" class="cls_004"><span class="cls_004">After clear.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">37</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:12780px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
 <img src="b2b0d092-8d91-11eb-8b25-0cc47a792c0a_id_b2b0d092-8d91-11eb-8b25-0cc47a792c0a_files/background16.jpg" width=595 height=842></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">38</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:13632px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -172,7 +169,7 @@
 <div style="position:absolute;left:73.30px;top:162.80px" class="cls_009"><span class="cls_009">click File in menu bar then save to open save dialog and then select location and</span></div>
 <div style="position:absolute;left:73.30px;top:187.00px" class="cls_009"><span class="cls_009">press “save” button .By default location is c/user/username in windows or equivalent</span></div>
 <div style="position:absolute;left:73.30px;top:211.10px" class="cls_009"><span class="cls_009">in other platform .</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">39</span></div>
+
 </div>
 <div style="position:absolute;left:50%;margin-left:-297px;top:14484px;width:595px;height:842px;border-style:outset;overflow:hidden">
 <div style="position:absolute;left:0px;top:0px">
@@ -182,7 +179,7 @@
 <div style="position:absolute;left:73.30px;top:90.40px" class="cls_009"><span class="cls_009">information about the application project.</span></div>
 <div style="position:absolute;left:73.30px;top:440.40px" class="cls_010"><span class="cls_010">8.13 HELP: </span><span class="cls_009">It shows all the available features of the Software for the new user. To</span></div>
 <div style="position:absolute;left:73.30px;top:464.60px" class="cls_009"><span class="cls_009">view help click About, then help.</span></div>
-<div style="position:absolute;left:540.50px;top:779.50px" class="cls_004"><span class="cls_004">40</span></div>
+
 </div>
 
 
